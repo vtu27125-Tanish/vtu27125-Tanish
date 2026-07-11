@@ -316,7 +316,7 @@ Actively engaged in independent full-stack and AI/ML project development alongsi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vtu27125-Tanish/vtu27125-Tanish/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/vtu27125-Tanish/Tanish/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
