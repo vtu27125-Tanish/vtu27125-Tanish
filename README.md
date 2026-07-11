@@ -17,13 +17,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-tanish-853701273/)
 [![Gmail](https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n.tanish.2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanish)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vtu27125-Tanish)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tanish&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Tanish?style=for-the-badge&color=7c3aed&labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/Tanish?style=for-the-badge&color=6d28d9&labelColor=1a1a2e)
+![Profile Views](https://komarev.com/ghpvc/?username=vtu27125-Tanish&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/vtu27125-Tanish?style=for-the-badge&color=7c3aed&labelColor=1a1a2e)
+![Stars](https://img.shields.io/github/stars/vtu27125-Tanish?style=for-the-badge&color=6d28d9&labelColor=1a1a2e)
 
 </div>
 
@@ -33,7 +33,7 @@
 
 ```yaml
 engineer:
-  name: "Tanish N"
+  name: "Tanish"
   role: "Software Engineer | AI/ML Engineer | Full Stack Developer"
   education: "B.Tech CSE (AI/ML Specialization) @ Vel Tech Rangarajan Dr. Sagunthala R&D Institute"
   batch: "2023 - 2027"
@@ -127,7 +127,7 @@ Real-time messaging platform built with PHP and MySQL, using AJAX polling to sim
 | **Performance** | Polling-optimized message sync |
 | **Security** | Session-based authentication |
 | **Impact** | Core FSAD milestone deliverable |
-| **Repository** | [View Repository](https://github.com/Tanish/linkup) |
+| **Repository** | [View Repository](https://github.com/vtu27125-Tanish/linkup) |
 
 </details>
 
@@ -144,7 +144,7 @@ Full-stack event management application built on Node.js and Express, featuring 
 | **Performance** | Asynchronous email dispatch |
 | **Security** | SMTP-based email verification |
 | **Impact** | Streamlined event registration workflows |
-| **Repository** | [View Repository](https://github.com/Tanish/eventsphere) |
+| **Repository** | [View Repository](https://github.com/vtu27125-Tanish/eventsphere) |
 
 </details>
 
@@ -161,7 +161,7 @@ Real-time event tracking and management system leveraging Socket.IO for live bid
 | **Performance** | WebSocket-driven low-latency updates |
 | **Security** | Server-side validation & structured queries |
 | **Impact** | Live event state management at scale |
-| **Repository** | [View Repository](https://github.com/Tanish/trackwise) |
+| **Repository** | [View Repository](https://github.com/vtu27125-Tanish/trackwise) |
 
 </details>
 
@@ -178,7 +178,7 @@ Python-based voice-activated AI assistant powered by Google Gemini, capable of n
 | **Performance** | Real-time voice-to-action pipeline |
 | **Security** | API-key based secure authentication |
 | **Impact** | Automated system control via natural language |
-| **Repository** | [View Repository](https://github.com/Tanish/jarvis) |
+| **Repository** | [View Repository](https://github.com/vtu27125-Tanish/jarvis) |
 
 </details>
 
@@ -195,7 +195,7 @@ Computer vision application using MediaPipe for real-time hand-tracking, enablin
 | **Performance** | Low-latency gesture detection |
 | **Security** | Local-only processing, no data transmission |
 | **Impact** | Touchless volume & system control |
-| **Repository** | [View Repository](https://github.com/Tanish/hand-gesture-controller) |
+| **Repository** | [View Repository](https://github.com/vtu27125-Tanish/hand-gesture-controller) |
 
 </details>
 
@@ -212,7 +212,7 @@ VS Code extension built with a modular six-file architecture, implementing regex
 | **Performance** | Real-time regex pattern matching |
 | **Security** | Severity-based content flagging |
 | **Impact** | In-editor spam/content detection tooling |
-| **Repository** | [View Repository](https://github.com/Tanish/spam-detective) |
+| **Repository** | [View Repository](https://github.com/vtu27125-Tanish/spam-detective) |
 
 </details>
 
@@ -283,10 +283,10 @@ Actively engaged in independent full-stack and AI/ML project development alongsi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tanish&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=E0D7FF&ring_color=6D28D9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanish&theme=radical&hide_border=true&background=0D0221&ring=6D28D9&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vtu27125-Tanish&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=E0D7FF&ring_color=6D28D9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vtu27125-Tanish&theme=radical&hide_border=true&background=0D0221&ring=6D28D9&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E0D7FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtu27125-Tanish&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=E0D7FF" width="49%"/>
 
 </div>
 
@@ -296,7 +296,7 @@ Actively engaged in independent full-stack and AI/ML project development alongsi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tanish&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Stars,Followers,Repositories,PullRequest,Issues,Experience" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vtu27125-Tanish&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Stars,Followers,Repositories,PullRequest,Issues,Experience" width="100%"/>
 
 </div>
 
@@ -306,7 +306,7 @@ Actively engaged in independent full-stack and AI/ML project development alongsi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanish&theme=react-dark&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=E0D7FF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vtu27125-Tanish&theme=react-dark&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=E0D7FF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -316,7 +316,7 @@ Actively engaged in independent full-stack and AI/ML project development alongsi
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tanish/Tanish/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/vtu27125-Tanish/vtu27125-Tanish/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -350,7 +350,7 @@ current_focus:
 
 [![Gmail](https://img.shields.io/badge/Gmail-n.tanish.2005%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n.tanish.2005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-tanish-853701273/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_me-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanish)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_me-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vtu27125-Tanish)
 
 </div>
 
