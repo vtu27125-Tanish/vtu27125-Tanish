@@ -36,7 +36,7 @@
 ```yaml
 engineer:
   name: "Tanish"
-  role: "Software Engineer | AI/ML Engineer | Full Stack Developer"
+  role: "Software Engineer | AI/ML Engineer"
   education: "B.Tech CSE (AI/ML Specialization) @ Vel Tech Rangarajan Dr. Sagunthala R&D Institute"
   batch: "2023 - 2027"
   philosophy: "Engineering products, not just projects"
